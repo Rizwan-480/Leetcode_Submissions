@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0075-sort-colors) |
 | [0792-binary-search](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0792-binary-search) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -28,10 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0792-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rizwan-480/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
